@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T17:29:14.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xsXsrXec3RaKdbsB0UVm" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T21:27:16.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KWCNECFsZIPJayTbRqPc" version="20.4.2" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -274,8 +274,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhWLm95r-1jJ7D2R7WOt-4" value="&lt;b&gt;L&lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Lista entidades y atributos.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;u style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Bus:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Id - number- PK&lt;/li&gt;&lt;li&gt;&amp;nbsp;placa -text- UQ&lt;/li&gt;&lt;li&gt;modelo -number&lt;/li&gt;&lt;li&gt;capacidad -number- CK&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Conductor:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;id -number- PK&lt;/li&gt;&lt;li&gt;documento&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="70" width="180" height="170" as="geometry" />
+        <mxCell id="JhWLm95r-1jJ7D2R7WOt-4" value="&lt;b&gt;L&lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Lista entidades y atributos.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;u style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Bus:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Id - number- PK&lt;/li&gt;&lt;li&gt;&amp;nbsp;placa -text- UQ&lt;/li&gt;&lt;li&gt;modelo -number&lt;/li&gt;&lt;li&gt;capacidad -number- CK&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Conductor:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;id -number- PK&lt;/li&gt;&lt;li&gt;documento - varchar2- UQ&lt;/li&gt;&lt;li&gt;nombre -varchar2-NN&lt;/li&gt;&lt;li&gt;apellido - varchar2-NN&lt;/li&gt;&lt;li&gt;locacion -varchar2-FK&lt;/li&gt;&lt;li&gt;telefono&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Pasajero:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;id -number- PK&lt;/li&gt;&lt;li&gt;nombre -varchar2- NN&lt;/li&gt;&lt;li&gt;apellido -varchar2 -NN&lt;/li&gt;&lt;li&gt;locacion -varchar2- FK&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="70" width="190" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
