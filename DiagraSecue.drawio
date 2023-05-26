@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T18:02:22.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hZsG8YYwxcOKoIYXyv2l" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T18:15:51.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qbXA_4pbztmiXm8RdOdd" version="21.3.4" type="github">
   <diagram name="Página-1" id="lVVp2TQSh0Q2pHXrriCY">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,7 +438,7 @@
             <mxPoint x="320" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S41daRzB_n-02zjPIjmR-45" value="1: obtencionCredenciales" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S41daRzB_n-02zjPIjmR-44">
+        <mxCell id="S41daRzB_n-02zjPIjmR-45" value="1: IngresoDatos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S41daRzB_n-02zjPIjmR-44">
           <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
             <mxPoint x="40" y="-9" as="offset" />
           </mxGeometry>
@@ -468,7 +468,7 @@
             <mxPoint x="532.5" y="936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S41daRzB_n-02zjPIjmR-51" value="2: envioRegistros" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S41daRzB_n-02zjPIjmR-50">
+        <mxCell id="S41daRzB_n-02zjPIjmR-51" value="2: envioDatos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S41daRzB_n-02zjPIjmR-50">
           <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
             <mxPoint x="40" y="-9" as="offset" />
           </mxGeometry>
@@ -527,7 +527,7 @@
             <mxPoint x="740" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S41daRzB_n-02zjPIjmR-62" value="3: Credenciales (Usuario,Contraseña)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S41daRzB_n-02zjPIjmR-61">
+        <mxCell id="S41daRzB_n-02zjPIjmR-62" value="3: datosConsulta(ID or Nombre)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S41daRzB_n-02zjPIjmR-61">
           <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
             <mxPoint x="36" y="-9" as="offset" />
           </mxGeometry>
