@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T18:49:42.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WxYofZ2xRAVPe6UfY3Uk" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T18:51:18.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PBVQlJW1-JK1P5gnIr2B" version="21.3.4" type="github">
   <diagram name="Página-1" id="lVVp2TQSh0Q2pHXrriCY">
     <mxGraphModel dx="1195" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
         <mxCell id="vEYUveF9crxNE4RdPcDe-2" value="Idea principal" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="389" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vEYUveF9crxNE4RdPcDe-7" value="Administrativo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vEYUveF9crxNE4RdPcDe-7" value="Votante" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="620" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vEYUveF9crxNE4RdPcDe-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="vEYUveF9crxNE4RdPcDe-7" edge="1">
